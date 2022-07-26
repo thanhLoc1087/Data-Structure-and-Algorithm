@@ -1,6 +1,6 @@
 # Data-Structure-and-Algorithm
 
-This respo includes some basic projects I've done during the DSA course I've taken in uni:
+This repo includes some basic projects I've done during the DSA course I've taken in uni:
 <html>
 <body> 
  <ul>
